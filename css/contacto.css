@@ -1,0 +1,5 @@
+@CHARSET "UTF-8";
+
+.iframe_form { padding: 0px 10px; background-color: #4B7C51; border: none; width: 530px; height: 866px; box-shadow: inset 1px 1px 10px gray; -moz-box-shadow: inset 1px 1px 10px gray; -o-box-shadow: inset 1px 1px 10px gray; -webkit-box-shadow: inset 1px 1px 10px gray; display: inline-block; }
+
+.cont_izq { display: inline-block; vertical-align: top; margin-left: 12px; width: 350px; }

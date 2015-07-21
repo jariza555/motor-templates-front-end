@@ -1,0 +1,110 @@
+#formulario_body{
+	width: 100%; 
+	height: auto; 
+	margin: 0 auto 0 auto;  
+	overflow: hidden; 
+	border: no; 
+	margin-top: -10px; 
+	margin-left: -10px
+}
+
+#titulo{
+	margin-left: 100px;
+	color: white;
+	font-weight: bold;
+	margin-bottom: 50px;
+}
+
+#primer_contenedor{ 
+	width: 710px; 
+	height: auto;
+	margin-left: 20px;
+	color: black;
+	padding-bottom: 30px;
+
+}
+
+#datos_texto {  
+	color: white;  
+}
+	
+
+#campo_obligatorio{
+	float: left;
+	margin-bottom: 15px;
+	
+	
+}
+
+#contenedor_formulario{
+	padding: 15px; 
+	background-color: white; 
+	width: 455px; 
+	height: auto;
+	float: left;
+	text-align: center;
+	overflow: hidden;
+	border-radius: 5px;
+	box-shadow: 1px 1px 11px black;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+#campo{
+	margin-bottom: 5px;
+	margin-top: 5px;
+	height: 28px;
+	overflow: hidden;
+}
+
+#campo label{
+	float: left;
+	margin-left: 10px;
+	
+	
+
+}
+
+
+#campo input{
+	float: right;
+	margin-right: 80px;
+	box-shadow: 1px 1px 81px black;
+	-moz-box-shadow: 1px 1px 81px black;
+	-o-box-shadow: 1px 1px 81px black;
+	-webkit-box-shadow: 1px 1px 81px black;
+	padding: 1.5px;
+	width: 280px;
+}
+
+
+#boton_enviar{
+	 
+	margin: 0 auto 0 auto;
+	padding-top: 15px;
+	padding-bottom: 10px;
+
+}
+
+/* Mensajes */
+
+#exito_error_msn{
+	width: 350px; 
+	margin-top: 330px; 
+	margin-left: 55px; 
+	color: white; 
+	background-color: grey; 
+	height: auto; 
+	font-size: 70px;
+	text-align: center;
+	padding: 15px;
+	border-color: white;
+	border-width: 3px;
+	border-style: solid;
+
+}
+
+#exito_error_msn strong{
+		font-size: 18px;
+	
+}

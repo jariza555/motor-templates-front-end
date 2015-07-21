@@ -1,0 +1,51 @@
+@CHARSET "UTF-8";
+
+.titulo { padding: 20px 0px; }
+
+.requisitos {
+max-width: 600px;
+  margin: 0 auto;
+}
+
+.requisitos span {
+font-size: 20px;
+}
+
+.titulos {
+text-align: center;
+}
+
+.requisitos p {
+font-size: 18px;
+}
+
+.documento { width: 750px; margin: 0 auto;}
+
+.lista_portafolio { color: white; font-weight: bold; }
+
+/* Form Cotizador Online */
+
+#miniatura60,#miniatura1,#miniatura2,#miniatura3,#miniatura4,#miniatura5,#miniatura6,#miniatura7,#miniatura8,#miniatura9,#miniatura10,#miniatura11,#miniatura12,#miniatura13,#miniatura14,#miniatura15,#miniatura16,#miniatura17,#miniatura18,#miniatura19,#miniatura20,#miniatura21,#miniatura22,#miniatura23,#miniatura24,#miniatura25,#miniatura26,#miniatura27,#miniatura28,#miniatura29,#miniatura30,#miniatura31,#miniatura32,#miniatura33,#miniatura34,#miniatura35,#miniatura36,#miniatura37,#miniatura38,#miniatura39,#miniatura40,#miniatura41,#miniatura42,#miniatura43,#miniatura44,#miniatura45,#miniatura46,#miniatura47,#miniatura48,#miniatura49,#miniatura50,#miniatura51,#miniatura52,#miniatura53,#miniatura54,#miniatura55,#miniatura56,#miniatura57,#miniatura58 {  margin-left: 10px; margin-top: 26px; display: none; box-shadow: inset  2px -2px 2px black,  inset -2px 2px 2px black,  inset -2px -2px 2px black, inset 2px 2px 2px black; position: absolute; z-index: 899; background-color: #80B526; border: solid 3px white; padding: 20px; }
+#miniatura img { border: 3px solid silver ; }
+		
+.titulo_categoria { font-family: sans; color: white; text-align: center; padding: 10px 0px; font-size: 20px; }
+.subt_categoria { font-family: sans; background-color: white!important; text-align: center; }
+.cont_cotz { font-family: sans; margin: 0 auto; padding: 10px;   background-color: rgb(84, 130, 53); vertical-align: top; width: 640px; height: auto; overflow: hidden; }
+
+.nombre_t { font-family: sans; margin-bottom: 3px; width: 320px; padding: 3.8px 0px; height: auto; background-color: #F2F1F0; display: inline-block; }
+.valor_t, .subtotal_t { font-family: sans; margin-bottom: 3px; padding: 3.8px 0px; height: auto; width: 80px; background-color: #F2F1F0; display: inline-block; }
+.captura {  font-family: sans; position: relative; margin-right: -20px; float: right; }
+.cantidad_t { font-family: sans; text-align: center; vertical-align: top; margin-bottom: 3px; height: 25px; width: 52px; background-color: #F2F1F0; display: inline-block; }
+.repo { font-family: sans; text-shadow: 0px 0px 3px black; color: white; width: 444px; margin-top: -3px; margin-bottom: 4px; padding: 0px 22px; background-color: #9C9C9C; }
+.leyenda { font-family: sans; color: white; font-family: sans-serif; font-size: 16px; }
+
+.nombre { font-family: sans; color: black; text-shadow: 0px 0px 6px #80B526; padding: 3.8px 22px; width: 340px; margin-bottom: 3px; width: 360px; height: auto; background-color: #F2F1F0; display: inline-block; }
+.valor { font-family: sans; width: 77px; text-align: center; margin-bottom: 3px; padding: 3.8px 0px; height: auto; background-color: #F2F1F0; display: inline-block; }
+.subtotal { font-family: sans; text-align: center; margin-bottom: 3px; padding: 3px 8px; height: auto; width: 77px; background-color: #80B526; display: inline-block; }
+.cantidad { font-family: sans; text-align: center; vertical-align: top; margin-bottom: 3px; height: 22px; width: 53px; background-color: #F2F1F0; display: inline-block; }
+.subtotal { font-family: sans; width: 58px; border-radius: 4px; color: white; }
+.gran_total { font-family: sans; background-color: #F2F1F0; border: solid #80B526 2px; height: 21px; float: right; margin-right: 7px; width: 144px; text-align: center; }
+.titulo_gran_total { font-family: sans; color: white; height: 25px; float: right; margin-right: 7px; width: 120px; }
+.titulo_gran_total p { font-family: sans; position: relative; top: -10px; text-align: right; font-weight: bold; }
+.cont_resultados { font-family: sans; margin-top: 15px; }
+.calcular { font-family: sans; float: left; padding: 4px 10px; margin-left: 160px; }

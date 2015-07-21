@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+
+#img_porta, #txt_porta { display: inline-block; width: 440px; }
+
+#txt_porta { vertical-align: top; margin: 15px;}
+
+.lista_portafolio { color: white; padding-top: 15px; }
